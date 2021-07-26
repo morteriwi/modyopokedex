@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: modyo.pokedex.PokedexModyoPabloAravenaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.147 s - in modyo.pokedex.PokedexModyoPabloAravenaApplicationTests
