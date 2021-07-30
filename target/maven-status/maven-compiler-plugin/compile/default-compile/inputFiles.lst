@@ -25,6 +25,7 @@ C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\service\adapter\pokemon\species\entity\Genus.java
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\service\adapter\pokemon\evolutions\entity\EvolutionDetail.java
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\service\adapter\pokemon\evolutions\entity\EvolutionChainAPIResponse.java
+C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\configurations\SwaggerConfiguration.java
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\service\adapter\pokemon\detail\entity\Sprites.java
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\service\adapter\pokemon\ability\entity\PokemonAbilitieAPIResponse.java
 C:\Users\pablo\eclipse-workspace\pokedex-modyo-pablo-aravena\src\main\java\modyo\pokedex\controller\PokemonController.java
