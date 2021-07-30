@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "9d2e8825-b57f-4c4c-89a4-b1679e36fa17",
+		"name": "Pokemon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Pokemons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://modyopokedex.herokuapp.com/api/pokemon",
+					"protocol": "https",
+					"host": [
+						"modyopokedex",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"pokemon"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Pokemon by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://modyopokedex.herokuapp.com/api/pokemon/1",
+					"protocol": "https",
+					"host": [
+						"modyopokedex",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"pokemon",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
