@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: modyo.pokedex.controller.PokemonControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.888 s <<< FAILURE! - in modyo.pokedex.controller.PokemonControllerTest
-getPokemons  Time elapsed: 0.108 s  <<< FAILURE!
-java.lang.AssertionError: []: Expected 1 values but got 0
-	at modyo.pokedex.controller.PokemonControllerTest.getPokemons(PokemonControllerTest.java:81)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.921 s - in modyo.pokedex.controller.PokemonControllerTest
